@@ -1,0 +1,13 @@
+import os
+
+#bot token @BOTfather
+BOT_TOKEN = OS.environ.get("BOT_TOKEN", "7340897929:AAENNfCY3DXQKGnCa-X8znQ9ZOzPRC4tCaA")
+
+#Your API ID from my .telegrem .org
+API_ID = int(os.environ.get("API_HASH", "20028279")
+
+#YOUR API HASH FROM my.telegram.org
+APl_HASH = OS.environ.get("API_HASH","d09886abf105ef1c8bf5017379fe184d")
+
+#DATAbase
+DB_URI = OS.environ.get("DB_URI","mongodb+srv://makumbiom02:5x6u2sLJmtRmeJiL@cluster0.zjxj7tw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
